@@ -126,7 +126,7 @@ body {
 }
 
 .footer {
-  height: 80px;
+  min-height: 80px;
   background-color: var(--color-blue);
   overflow: auto;
 }
